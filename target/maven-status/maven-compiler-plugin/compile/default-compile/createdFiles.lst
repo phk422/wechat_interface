@@ -1,0 +1,10 @@
+com\phk\miniprogram\dao\FriendDao.class
+com\phk\miniprogram\domain\FriendList.class
+com\phk\miniprogram\util\JdbcUtils.class
+com\phk\miniprogram\domain\Friend.class
+com\phk\miniprogram\web\servlet\BaseServlet.class
+com\phk\miniprogram\service\impl\FriendServiceImpl.class
+com\phk\miniprogram\web\filter\CharchaterFilter.class
+com\phk\miniprogram\service\FriendService.class
+com\phk\miniprogram\dao\impl\FriendDaoImpl.class
+com\phk\miniprogram\web\servlet\FindFriend.class
